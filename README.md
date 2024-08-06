@@ -6,8 +6,13 @@ The following PHP project contains all the essential features which can be in us
 
 
 ## **Admin Panel**
+
 An admin has full control over the system. He/she can manage passengers, trains, accounting, and so on. Here, each and every section has its own respective details such as name, and other important details.
+
 <img width="948" alt="Screenshot 2024-08-06 120059" src="https://github.com/user-attachments/assets/35c0973c-699c-4843-98bc-6820a6b4d022">
+
+ ## **Advance Search** 
+ 
 <img width="944" alt="Screenshot 2024-08-06 120127" src="https://github.com/user-attachments/assets/773078bf-d947-49f7-afda-556883f17c70">
 
 ## **Train Ticket Management**
