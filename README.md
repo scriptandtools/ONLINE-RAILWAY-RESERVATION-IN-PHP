@@ -56,13 +56,29 @@ The admin can view payment codes from each and every passenger’s ticket reserv
 <img width="944" alt="Screenshot 2024-08-06 120152" src="https://github.com/user-attachments/assets/e74a3226-674a-43b3-a180-3e855386af27">
 
 ## **Installation**
-After you finish downloading the project, unzip the project file and head over to your XAMPP directory.
-There you’ll find a folder named “htdocs”.
-Inside the “htdocs” folder, paste the project folder (not the .zip one, but the extracted one).
-Open your favorite browser; we recommend using Google Chrome or Mozilla Firefox.
-Then, go to the URL “http://localhost/phpmyadmin“.
-Create a Database with a name that is provided inside the “01 LOGIN DETAILS & PROJECT INFO.txt”.
-Click on the “Import” tab and choose the database file (.sql) which is provided under the folder named “DATABASE FILE”.
-After setting up all these, go to the URL “http://localhost/[ PROJECT_FOLDER_NAME ]/“
-All the login details are provided inside the project folder, check that out and enter them in order to use it.
+After Starting Apache and MySQL in XAMPP, follow the following steps:
+
+1st Step: Extract file
+
+2nd Step: Copy the main project folder
+
+3rd Step: Paste in xampp/htdocs/
+
+Now Connecting Database 4th Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
+
+5th Step: Click on the databases tab
+
+6th Step: Create a database named “realestatephp” and then click on the import tab
+
+7th Step: Click on browse file and select “realestatephp.sql” file which is inside “DATABASE” folder
+
+8th Step: Click on go.
+
+After Creating Database,
+
+9th Step: Open a browser and go to URL “http://localhost/ONLINE-RAILWAY-RESERVATION-IN-PHP”
+
+Need Help or Customization?
+
+If you need assistance with setup, customization, or any other support, feel free to contact me. I’m here to help and provide the best solutions for your needs.
 
