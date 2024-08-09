@@ -7,18 +7,31 @@ The following PHP project contains all the essential features which can be in us
 ## **Features**
 
 Admin Panel
+
 Passengers Panel
+
 Employee Panel
+
 Passengers Management
+
 Train Management
+
 Online Train Ticket Bookings
+
 Cancel Ticket Bookings
+
 View, Print Tickets
+
 View, Update User Profiles
+
 Search Available Trains
+
 Employee Management
+
 Manage Tickets
+
 Approved, Pending Tickets
+
 Accounting Overview
 
 
